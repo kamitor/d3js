@@ -1,0 +1,95 @@
+{
+  "Product1": [
+    {
+      "headertheme": {
+        "z-index": "1000",
+        "position": "fixed",
+        "display": "flex",
+        "justify-content": "space-between",
+        "align-items": "center",
+        "top": 0,
+        "width": "100%",
+        "padding-left": "1rem",
+        "padding-right": "1rem",
+        "height": "6rem",
+        "text-align": "center",
+        "font-size": "2.34vw",
+        "background-color": "rgb(255, 255, 255)",
+        "border-bottom": "1vh solid rgb(45, 91, 255)"
+      },
+      "prevlogo": {
+        "width": "40px",
+        "height": "40px",
+        "border-radius": "50%"
+      },
+      "logotext": {
+        "font-size": "20px"
+      },
+      "bodytheme": {
+        "align-items": "center",
+        "min-height": "100vh",
+        "padding": "1.5rem",
+        "margin-top": "6rem",
+        "color": "rgb(0, 0, 0)",
+        "background-color": "rgb(255, 255, 255)"
+      },
+      "static": {
+        "font-size": "20px",
+        "font-weight": "600"
+      },
+      "footer": {
+        "z-index": 1000,
+        "position": "fixed",
+        "display": "flex",
+        "justify-content": " center",
+        "align-items": " center",
+        "bottom": 0,
+        "width": "100%",
+        "height": "5rem",
+        "text-align": "center"
+      },
+      "buttonprimarytheme": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "width": "128px",
+        "border": "0px",
+        "background-color": "rgb(45, 91, 255)",
+        "color": "rgb(255, 255, 255)",
+        "height": "42px",
+        "font-size": "18px",
+        "border-radius": "8px",
+        "margin": 0,
+        "z-index": 11
+      },
+      "buttonsecondarytheme": {
+        "display": "flex",
+        "justify-content": "center",
+        "align-items": "center",
+        "width": "128px",
+        "border": "0px",
+        "background-color": "rgb(247, 248, 255)",
+        "color": "rgb(45, 91, 255)",
+        "height": "42px",
+        "font-size": "18px",
+        "border-radius": "8px",
+        "margin-left": "20px",
+        "z-index": 11
+      },
+
+      "img": "https://cdn-icons-gif.flaticon.com/6569/6569144.gif",
+      "height": "50px",
+      "width": "50px",
+      "title": "process.env.REACT_APP_HEADER",
+      "text": "Need Help ?",
+      "data1": "Your Header goes here",
+      "data2": "place-holder-text",
+      "data3": "Your label goes here",
+      "data4": "Your Header goes here",
+      "data5": "Your Header goes here",
+      "data6" : "place holder label",
+      "primarybutton"  :"Next",
+      "secondarybutton"  :"Back"
+    }
+  ]
+}
