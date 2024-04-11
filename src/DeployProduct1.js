@@ -30,21 +30,15 @@ const DeployProduct1 = () => {
                   {process.env.REACT_APP_HEADER}
                 </p>
               </div>
-              <div style={item.logotext}>
-                <p className="mb-0">{item.text}</p>
+              
               </div>
-            </div>
             <div
               className="overflow-scroll d-flex flex-column"
               style={item.bodytheme}
             >
-              <h3 style={item.static}>{item.data1}</h3>
-              <p style={item.static}>{item.data2}</p>
-              <div className="form-group">
-                <label style={item.logotext}>{item.data6}</label>
-                <input type="number" className="form-control" name="text_input_CF523BA6-1357-401F-9F0D-B2A3EAE1FBBC"></input>
-              </div>
-              <h3 style={item.static}>{item.data3}</h3>
+              <iframe width="100%" height="500" frameborder="0"
+  src="https://observablehq.com/embed/f6d02f0b8ed979ca?cell=*"></iframe>
+            
 
               <div style={item.footer}>
                 <button

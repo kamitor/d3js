@@ -39,16 +39,9 @@ const DeployProduct2 = ({ count, setCount }) => {
               className="overflow-scroll d-flex flex-column"
               style={item.bodytheme}
             >
-              <h3 style={item.static}>{item.data1}</h3>
-              <h3 style={item.static}>{item.data2}</h3>
-              <h3 style={item.static}>{item.data3}</h3>
-              <div className="form-group">
-                <label style={item.logotext}>{item.data6}</label>
-                <input type="text" className="form-control" name="text_input_CF523BA6-1357-401F-9F0D-B2A3EAE1FBBC"></input>
-              </div>
-              <h3 style={item.static}>{item.data4}</h3>
-              <h3 style={item.static}>{item.data5}</h3>
-
+              <iframe width="100%" height="500" frameborder="0"
+  src="https://observablehq.com/embed/befac376e20a274a?cell=*"></iframe>
+  
               <div style={item.footer}>
                 <button
                   type="submit"

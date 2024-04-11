@@ -34,16 +34,10 @@ const DeployProduct3 = () => {
               className="overflow-scroll d-flex flex-column"
               style={item.bodytheme}
             >
-              <h3 style={item.static}>{item.data1}</h3>
-              <h3 style={item.static}>{item.data2}</h3>
-              <div className="form-group">
-                <label style={item.logotext}>{item.data6}</label>
-                <select className="form-control" id="exampleFormControlSelect1">
-                  <option>place holder option 1</option>
-                  <option>place holder option 2</option>
-                  <option>place holder option 3</option>
-                </select>
-              </div>
+              
+              <iframe width="100%" height="500" frameborder="0"
+  src="https://observablehq.com/embed/21a6f11822ed471e?cell=*"></iframe>
+
               <div className="form-group">
                 <label style={item.logotext}>{item.data6}</label>
                 <input type="text" className="form-control" name="text_input_CF523BA6-1357-401F-9F0D-B2A3EAE1FBBC"></input>
