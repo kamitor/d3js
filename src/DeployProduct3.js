@@ -36,7 +36,7 @@ const DeployProduct3 = () => {
             >
               
               <iframe width="100%" height="500" frameborder="0"
-  src="https://observablehq.com/embed/21a6f11822ed471e?cell=*"></iframe>
+  src="https://observablehq.com/embed/0b56b2a6e468b737@372?cell=*"></iframe>
 
               <div className="form-group">
                 <label style={item.logotext}>{item.data6}</label>
